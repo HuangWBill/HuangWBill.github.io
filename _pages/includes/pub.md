@@ -40,7 +40,6 @@ Yunlong Li, Mingtao Ding*, Qian Zhang, Zhihui Luo, <b>Wubiao Huang</b>, Cancan Z
 李振洪(Zhenhong Li), 王建伟(Jianwei Wang)*, 胡羽丰(Yufeng Hu), 朱武(Wu Zhu), 付鑫(Xin Fu), 张双成(Shuangcheng Zhang), 余琛(Chen Yu), 王乐(Le Wang), 张驰(Chi Zhang), 杜建涛(Jaintao Du), <b>黄武彪(Wubiao Huang)</b>, 吕夏合(Xiahe Lv), 张成龙(Chenglong Zhang), 陈博(Bo Chen), 刘旭旭(Xuxu Liu), and 岳雨晴(Yuqing Yue)<br>
 [<a href="https://doi.org/10.13203/j.whugis20220512">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/papers/06.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/papers/06.txt">BibTex</a>] <br>
 <div style="text-align: justify">
-We integrate the latent knowledge of the SAM foundation model into change detection, effectively addressing the domain shift in general knowledge transfer and the challenge of expressing homogeneous and heterogeneous characteristics of multi-temporal images.
 </div>
 </div>
 
