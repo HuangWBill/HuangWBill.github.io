@@ -4,7 +4,7 @@
 My full paper list can be found at <a href='https://scholar.google.com/citations?user=5RF4ia8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FKyanChen%2FKyanChen.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/07.png"><img src='papers/07.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/08.png"><img src='papers/08.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Old Landslide Detection Using Optical Remote Sensing Images Based on Improved YOLOv8</b><br>
