@@ -7,7 +7,7 @@
 
 url: https://huangwbill.github.io/
 # Site Settings
-title                    : "Wubiao Huang (黄武彪)"
+title                    : "Wubiao Huang(黄武彪)"
 description              : "Ph.D. Student, Wuhan University"
 repository               : "HuangWBill/HuangWBill.github.io"
 # google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ repository               : "HuangWBill/HuangWBill.github.io"
 
 # Site Author
 author:
-  name             : "Wubiao Huang (黄武彪)"
+  name             : "Wubiao Huang(黄武彪)"
   avatar           : "image/WubiaoHuang.jpg"
   bio              : "Wuhan University"
   location         : "Wuhan"
