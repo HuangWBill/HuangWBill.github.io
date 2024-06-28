@@ -10,7 +10,7 @@
 <i>Applied Sciences, 2024</i><br>
 (SCI)<br>
 Yunlong Li, Mingtao Ding*, Qian Zhang, Zhihui Luo, <b>Wubiao Huang</b>, Cancan Zhang, and Hui Jiang<br>
-[<a href="https://doi.org/10.3390/app14031100">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/papers/08.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/papers/08.txt">BibTex</a>] <br>
+[<a href="https://doi.org/10.3390/app14031100">PDF</a>] [[Alternate](https://github.com/HuangWBill/HuangWBill.github.io/papers/08.pdf)] [[BibTex](https://github.com/HuangWBill/HuangWBill.github.io/papers/08.txt)] <br>
 <div style="text-align: justify">
 </div>
 </div>
