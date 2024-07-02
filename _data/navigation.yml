@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Academic Service"
-    url: "/#-academic-service"
+#  - title: "Academic Service"
+#    url: "/#-academic-service"
 #
 #  - title: "Internships"
 #    url: "/#-internships"
