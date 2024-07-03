@@ -24,7 +24,7 @@ Yunlong Li, Mingtao Ding*, Qian Zhang, Zhihui Luo, <b>Wubiao Huang</b>, Cancan Z
 <b>Landslide susceptibility mapping and dynamic response along the Sichuan-Tibet transportation corridor using deep learning algorithms</b><br>
 <i>Catena, 2023</i><br>
 (SCI Q1 Top)<br>
-<b>Wubiao Huang</b>, Mingtao Ding*, Zhenhong Li*, Junchuan Yu, Daqing Ge, Qi Liu, and Jing Yang<br>
+<b>Wubiao Huang</b>, Mingtao Ding*, Zhenhong Li\*, Junchuan Yu, Daqing Ge, Qi Liu, and Jing Yang<br>
 [<a href="https://doi.org/10.1016/j.catena.2022.106866">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/07.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/07.txt">BibTex</a>] [<a href="https://github.com/HuangWBill/DL_LSM">Github</a>] <br>
 <div style="text-align: justify">
 </div>
