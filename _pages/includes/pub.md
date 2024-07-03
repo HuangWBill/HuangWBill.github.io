@@ -69,7 +69,7 @@ Yunlong Li, Mingtao Ding*, Qian Zhang, Zhihui Luo, <b>Wubiao Huang</b>, Cancan Z
 <b>基于光学遥感像素偏移量的金沙江流域2018年白格滑坡演变过程(Evolution of the 2018 Baige Landslides Revealed by Optical Remote Sensing Pixel Offsets in Jinsha River Basin, China)</b><br>
 <i>地球科学与环境学报(Journal of Earth Science and Environment), 2022</i><br>
 (中文核心)<br>
-董岳(Yue Dong), 丁明涛*(Mingtao Ding), 李鑫泷(Xinlong Li), 张雪松(Xuesong Zhang), <b>黄武彪(Wubiao Huang)</b>, 刘振江(Zhenjiang Liu), and 李振洪(Zhenhong Li)<br>
+董岳(Yue Dong), 丁明涛(Mingtao Ding)*, 李鑫泷(Xinlong Li), 张雪松(Xuesong Zhang), <b>黄武彪(Wubiao Huang)</b>, 刘振江(Zhenjiang Liu), and 李振洪(Zhenhong Li)<br>
 [<a href="https://doi.org/10.19814/j.jese.2022.05025">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/04.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/04.txt">BibTex</a>] <br>
 <div style="text-align: justify">
 </div>
