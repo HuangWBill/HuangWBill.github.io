@@ -3,6 +3,21 @@
 
 ## <font color="red">Updating......</font>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/09.png"><img src='papers/09.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Dynamic flood mapping by a normalized probabilistic classification method using satellite radar amplitude time series</b><br>
+<i>GIScience & Remote Sensing, 2024</i><br>
+(SCI)<br>
+Liangyu Ta, Chen Yu*, Zhenhong Li, Xiaoning Hu, Chuang Song, <b>Wubiao Huang</b>, Meiling Zhou<br>
+[<a href="https://doi.org/10.1080/15481603.2024.2380125">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/09.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/09.txt">BibTex</a>] <br>
+<div style="text-align: justify">
+</div>
+</div>
+
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/08.png"><img src='papers/08.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -26,6 +41,21 @@ Yunlong Li, Mingtao Ding*, Qian Zhang, Zhihui Luo, <b>Wubiao Huang</b>, Cancan Z
 (SCI Q1 Top)<br>
 <b>Wubiao Huang</b>, Mingtao Ding*, Zhenhong Li\*, Junchuan Yu, Daqing Ge, Qi Liu, and Jing Yang<br>
 [<a href="https://doi.org/10.1016/j.catena.2022.106866">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/07.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/07.txt">BibTex</a>] [<a href="https://github.com/HuangWBill/DL_LSM">Github</a>] <br>
+<div style="text-align: justify">
+</div>
+</div>
+
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/03.png"><img src='papers/03.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>An Efficient User-Friendly Integration Tool for Landslide Susceptibility Mapping Based on Support Vector Machines: SVM-LSM Toolbox</b><br>
+<i>Remote Sensing (RS), 2022</i><br>
+(SCI Q1)<br>
+<b>Wubiao Huang</b>, Mingtao Ding*, Zhenhong Li, Jianqi Zhuang, Jing Yang, Xinlong Li, Ling’en Meng, Hongyu Zhang, and Yue Dong<br>
+[<a href="https://doi.org/10.3390/rs14143408">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/03.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/03.txt">BibTex</a>] [<a href="https://github.com/HuangWBill/SVM-LSM-Toolbox">Github</a>] <br>
 <div style="text-align: justify">
 </div>
 </div>
@@ -78,21 +108,6 @@ Yunlong Li, Mingtao Ding*, Qian Zhang, Zhihui Luo, <b>Wubiao Huang</b>, Cancan Z
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/03.png"><img src='papers/03.png' alt="sym" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-<b>An Efficient User-Friendly Integration Tool for Landslide Susceptibility Mapping Based on Support Vector Machines: SVM-LSM Toolbox</b><br>
-<i>Remote Sensing (RS), 2022</i><br>
-(SCI Q1)<br>
-<b>Wubiao Huang</b>, Mingtao Ding*, Zhenhong Li, Jianqi Zhuang, Jing Yang, Xinlong Li, Ling’en Meng, Hongyu Zhang, and Yue Dong<br>
-[<a href="https://doi.org/10.3390/rs14143408">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/03.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/03.txt">BibTex</a>] [<a href="https://github.com/HuangWBill/SVM-LSM-Toolbox">Github</a>] <br>
-<div style="text-align: justify">
-</div>
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/02.png"><img src='papers/02.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -103,8 +118,8 @@ Yunlong Li, Mingtao Ding*, Qian Zhang, Zhihui Luo, <b>Wubiao Huang</b>, Cancan Z
 [<a href="https://doi.org/10.3799/dqkx.2021.243">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/02.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/02.txt">BibTex</a>] <br>
 <div style="text-align: justify">
 </div>
-
 </div>
+
 </div>
 
 
@@ -117,6 +132,7 @@ Yunlong Li, Mingtao Ding*, Qian Zhang, Zhihui Luo, <b>Wubiao Huang</b>, Cancan Z
 [<a href="https://doi.org/10.13577/j.jnd.2022.0125">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/01.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/01.txt">BibTex</a>] <br>
 <div style="text-align: justify">
 </div>
+</div>
+  
+</div>
 
-</div>
-</div>
