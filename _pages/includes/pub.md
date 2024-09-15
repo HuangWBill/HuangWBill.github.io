@@ -3,7 +3,7 @@
 
 ## <font color="red">Updating......</font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/09.png"><img src='papers/09.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/10.png"><img src='papers/10.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>A Generalized Deep Learning-based Method for Rapid Co-seismic Landslide Mapping</b><br>
