@@ -10,7 +10,7 @@
 <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2024</i><br>
 (SCI Q2 Top)<br>
 Jing Yang, Mingtao Ding, <b>Wubiao Huang</b>, Zhenhong Li*, Zhengyang Zhang, Jing Wu, Jianbing Peng<br>
-[<a href="https://ieeexplore.ieee.org/document/10675730">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/10.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/10.txt">BibTex</a>] <br>
+[<a href="https://doi.org/10.1109/JSTARS.2024.3457766">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/10.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/10.txt">BibTex</a>] <br>
 <div style="text-align: justify">
 </div>
 </div>
