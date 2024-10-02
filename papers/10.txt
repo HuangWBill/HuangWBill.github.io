@@ -3,8 +3,8 @@
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={A Generalized Deep Learning-based Method for Rapid Co-seismic Landslide Mapping}, 
   year={2024},
-  volume={},
+  volume={17},
   number={},
-  pages={1-14},
+  pages={16970-16983},
   keywords={Terrain factors;Adaptation models;Training;Geoengineering;Earthquakes;Geomagnetism;Remote sensing;Co-seismic landslide inventory mapping;change detection;generalization;landslide identification;multi-domain trained model;medium-resolution imagery;semantic segmentation},
   doi={10.1109/JSTARS.2024.3457766}}
