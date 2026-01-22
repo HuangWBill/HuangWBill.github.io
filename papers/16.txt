@@ -1,0 +1,16 @@
+@Article{rs18020213,
+AUTHOR = {Huang, Wubiao and Deng, Fei and Li, Huchen and Yang, Jing},
+TITLE = {HG-RSOVSSeg: Hierarchical Guidance Open-Vocabulary Semantic Segmentation Framework of High-Resolution Remote Sensing Images},
+JOURNAL = {Remote Sensing},
+VOLUME = {18},
+YEAR = {2026},
+NUMBER = {2},
+ARTICLE-NUMBER = {213},
+URL = {https://www.mdpi.com/2072-4292/18/2/213},
+ISSN = {2072-4292},
+ABSTRACT = {Remote sensing image semantic segmentation (RSISS) aims to assign a correct class label to each pixel in remote sensing images and has wide applications. With the development of artificial intelligence, RSISS based on deep learning has made significant progress. However, existing methods remain more focused on predefined semantic classes and require costly retraining when confronted with new classes. To address this limitation, we propose the hierarchical guidance open-vocabulary semantic segmentation framework for remote sensing images (named HG-RSOVSSeg), enabling flexible segmentation of arbitrary semantic classes without model retraining. Our framework leverages pretrained text-embedding models to provide class common knowledge and aligns multimodal features through a dual-stream architecture. Specifically, we propose a multimodal feature aggregation module for pixel-level alignment and a hierarchical visual feature decoder guided by text feature alignment, which progressively refines visual features using language priors, preserving semantic coherence during high-resolution decoding. Extensive experiments were conducted on six representative public datasets, and the results showed that our method has the highest mean mIoU value, establishing state-of-the-art performance in the field of open-vocabulary semantic segmentation of remote sensing images.},
+DOI = {10.3390/rs18020213}
+}
+
+
+

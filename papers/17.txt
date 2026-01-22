@@ -1,0 +1,16 @@
+@Article{rs18020286,
+AUTHOR = {Yang, Jing and Ding, Mingtao and Huang, Wubiao and Xue, Qiang and Dong, Ying and Chen, Bo and Peng, Lulu and Zhang, Fuling and Li, Zhenhong},
+TITLE = {Cross-Domain Landslide Mapping in Remote Sensing Images Based on Unsupervised Domain Adaptation Framework},
+JOURNAL = {Remote Sensing},
+VOLUME = {18},
+YEAR = {2026},
+NUMBER = {2},
+ARTICLE-NUMBER = {286},
+URL = {https://www.mdpi.com/2072-4292/18/2/286},
+ISSN = {2072-4292},
+ABSTRACT = {Rapid and accurate acquisition of landslide inventories is essential for effective disaster relief. Deep learning-based pixel-wise semantic segmentation of remote sensing imagery has greatly advanced in landslide mapping. However, the heavy dependance on extensive annotated labels and sensitivity to domain shifts severely constrain the model performance in unseen domains, leading to poor generalization. To address these limitations, we propose LandsDANet, an innovative unsupervised domain adaptation framework for cross-domain landslide identification. Firstly, adversarial learning is employed to reduce the data distribution discrepancies between the source and target domains, thereby achieving output space alignment. The improved SegFormer serves as the segmentation network, incorporating hierarchical Transformer blocks and an attention mechanism to enhance feature representation capabilities. Secondly, to alleviate inter-domain radiometric discrepancies and attain image-level alignment, a Wallis filter is utilized to perform image style transformation. Considering the class imbalance present in the landslide dataset, a Rare Class Sampling strategy is introduced to mitigate bias towards common classes and strengthen the learning of the rare landslide class. Finally, a contrastive loss is adopted to further optimize and enhance the model’s ability to delineate fine-grained class boundaries. The proposed model is validated on the Potsdam and Vaihingen benchmark datasets, followed by validation in two landslide scenarios induced by earthquakes and rainfall to evaluate its adaptability across different disaster domains. Compared to the source-only model, LandsDANet achieved improvements in IoU of 27.04% and 35.73% in two cross-domain landslide disaster recognition tasks, respectively. This performance not only showcases its outstanding capabilities but also underscores its robust potential to meet the demands for rapid response.},
+DOI = {10.3390/rs18020286}
+}
+
+
+
