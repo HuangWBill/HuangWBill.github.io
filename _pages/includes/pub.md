@@ -18,6 +18,21 @@
 
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/16.png"><img src='papers/16.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>HG-RSOVSSeg: Hierarchical Guidance Open-Vocabulary Semantic Segmentation Framework of High-Resolution Remote Sensing Images</b><br>
+<i>Remote Sensing (RS), 2026</i><br>
+(SCI Q2)<br>
+<b>Wubiao Huang</b>, Fei Deng*, Huchen Li, Jing Yang<br>
+[<a href="https://doi.org/10.3390/rs18020213">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/16.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/16.txt">BibTex</a>] [<a href="https://github.com/HuangWBill/HG-RSOVSSeg">Github</a>] <br>
+<div style="text-align: justify">
+</div>
+</div>
+
+</div>
+
 ### 📚 *Remote sensing semantic segmentation (Fixed classes)*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/11.png"><img src='papers/11.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -125,6 +140,21 @@ Huchen Li, <b>Wubiao Huang</b>, Jiacheng Liu, Ke Chen,Fei Deng*<br>
 
 
 ### 📚 *Landslide identification, detection and evolution*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/17.png"><img src='papers/17.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Cross-Domain Landslide Mapping in Remote Sensing Images Based on Unsupervised Domain Adaptation Framework</b><br>
+<i>Remote Sensing (RS), 2026</i><br>
+(SCI Q2)<br>
+Jing Yang, Mingtao Ding*, <b>Wubiao Huang</b>, Qiang Xue, Ying Dong, Bo Chen, Fuling Zhang, Zhenhong Li<br>
+[<a href="https://doi.org/10.3390/rs18020286">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/17.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/17.txt">BibTex</a>] [<a href="https://github.com/HuangWBill/LandsDANet">Github</a>] <br>
+<div style="text-align: justify">
+</div>
+</div>
+
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/10.png"><img src='papers/10.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
