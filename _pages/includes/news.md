@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.07*: The **<font color="red">HG-RSOVSSeg</font>** have been released.
 - *2025.12*: A papers is accepted by ***ISPRS** (**SCI Q1 Top**)*.
 - *2025.04*: The **<font color="red">MSEONet</font>** have been released.
 - *2025.03*: A papers is accepted by ***TGRS** (**SCI Q1 Top**)*.
